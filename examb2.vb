@@ -1,6 +1,7 @@
 Public Class Form1
     Dim quiz(5) As String
     Dim Score As Integer = 0
+    Dim Score As Integer = 0
 
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         GroupBox1.Visible = False
